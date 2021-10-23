@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @91230037
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Allam Sunil Kumar
+- 👀 I’m interested in Learn New Things
+- 🌱 I’m currently learning Data Science 
+- 💞️ I’m looking to collaborate on Love
+- 📫 How to reach me 7729922654
 
 <!---
 91230037/91230037 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
